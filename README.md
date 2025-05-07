@@ -1,6 +1,18 @@
-<<<<<<< HEAD
-# BD_grpB_Prj_12
-=======
 # RequirementsConverter
-A C# WinForms application for converting requirement files (XML, CSV, JSON) and validating them using formal language rules (CFG/DFA).
->>>>>>> 065e4281bed180ab87c25be9b82d10ef93978517
+
+A C# WinForms application that converts software requirement files (XML, CSV, JSON) into other formats and validates them using formal language rules like CFG and DFA.
+
+## Features
+
+- XML/CSV/JSON to CFG validation
+- Visual interface with WinForms
+- Modular file transformation support
+
+## How to Run
+
+- Open the solution file in Visual Studio
+- Build and run the project
+
+## Author
+
+- Emir Kalkan
