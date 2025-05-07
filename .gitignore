@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Windows image cache
+Thumbs.db
+
+# Logs
+*.log
+
+# Configuration files
+app.config
+*.local.json
+
+# Others
+*.DS_Store
+*.class
+*.exe
+*.dll
