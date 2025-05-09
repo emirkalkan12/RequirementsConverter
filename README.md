@@ -15,4 +15,4 @@ A C# WinForms application that converts software requirement files (XML, CSV, JS
 
 ## Author
 
-- Emir Kalkan
+- Emirhan Kalkan
